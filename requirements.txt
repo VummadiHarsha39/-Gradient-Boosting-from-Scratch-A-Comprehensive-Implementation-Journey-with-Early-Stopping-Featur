@@ -1,0 +1,5 @@
+numpy
+matplotlib
+pandas
+scikit-learn # For dataset loading and comparisons
+jupyter # To run the notebooks
