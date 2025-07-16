@@ -44,18 +44,26 @@ My custom Gradient Boosting Machine is designed with modularity and real-world a
 ## Project Structure
 /boosting_from_scratch_project/
 ├── boosting_from_scratch/
-│   ├── init.py           # Makes 'boosting_from_scratch' a Python package
-│   ├── booster.py            # Core GradientBooster class implementation
-│   ├── tree.py               # Custom DecisionTree (base learner) implementation
-│   ├── loss.py               # Modular MSELoss and LogLoss functions
-│   ├── early_stopping.py     # EarlyStopping logic for GBM
-│   └── utils.py              # Utility functions (currently empty after cleanup)
+│   ├── init.py
+
+│   ├── booster.py
+
+│   ├── tree.py
+
+│   ├── loss.py
+
+│   ├── early_stopping.py
+
+│   └── utils.py
+
 │
 ├── notebooks/
-│   └── demo.ipynb            # Interactive demo showcasing all features
+│   └── demo.ipynb
+
 │
-├── README.md                 # Project overview and documentation (THIS FILE)
-└── requirements.txt          # Python dependencies
+├── README.md
+
+└── requirements.txt
 
 
 ## Installation
