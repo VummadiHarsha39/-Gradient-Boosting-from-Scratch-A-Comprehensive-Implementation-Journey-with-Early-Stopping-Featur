@@ -15,7 +15,7 @@ A personal project to implement a Gradient Boosting Machine (GBM) from first pri
 
 ## Overview
 
-This repository chronicles my hands-on journey building a **Gradient Boosting Machine (GBM)** entirely from scratch in Python. The goal was to move beyond library calls and gain a deep, intuitive understanding of this powerful ensemble algorithm, from its mathematical foundations to its practical implementation details. This project demonstrates strong conceptual understanding, modular software engineering, and a commitment to practical machine learning features.
+This repository documents my experience in the development of a **Gradient Boosting Machine (GBM)** from scratch up in Python. The objective was to leave library calls and acquire a profound, intuitive knowledge of this potent ensemble algorithm, incorporating its mathematical underpinnings and practical implementation details. This project exhibits a dedication to practical machine learning features, a strong conceptual understanding, and modular software engineering.
 
 ## Features Implemented
 
