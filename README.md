@@ -112,16 +112,7 @@ Explore the `demo.ipynb` notebook to see the Gradient Boosting Machine in action
         * Visualization of training/validation loss histories (from Early Stopping).
         * Plots of aggregated Feature Importances.
 
-## Learning Journey & What's Inside
 
-This project was an incredible learning experience that transformed abstract concepts into concrete code. It involved:
-
-* **Deep dives into mathematical foundations:** Understanding gradients, Hessians, and impurity measures.
-* **Modular Software Design:** Building robust, reusable components from scratch.
-* **Tackling Real-World Data:** Implementing solutions for heterogeneous feature types.
-* **Debugging Persistence:** Navigating and resolving complex issues, particularly stubborn Jupyter kernel caching, which truly enhanced problem-solving skills.
-
-The `demo.ipynb` provides live demonstrations of every feature, showcasing how each component contributes to the overall GBM.
 
 ## Contributing
 
